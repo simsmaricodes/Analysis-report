@@ -1,2 +1,2 @@
 # Analysis-report
-This is an analysis report of the two ML projects donw 
+This is an analysis report of the two ML projects done 
